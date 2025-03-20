@@ -18,7 +18,11 @@ To install Go-Cache, use `go get`:
 ```sh
 go get github.com/xplore-run/go-cache
 ```
-
+## Test
+```sh
+export REDIS_HOST="localhost:6379"
+export REDIS_PASSWORD="yhft67egjdkd"
+```
 ## Usage
 
 ### Initialize HybridCache
