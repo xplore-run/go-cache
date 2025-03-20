@@ -94,5 +94,3 @@ cache.Close()
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to replace `github.com/xplore-run/go-cache` with the actual import path of your project.
